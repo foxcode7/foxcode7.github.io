@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Deeplink test</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  </head>  
+  <body>
+      <a href="https://newsbreakapp.onelink.me/2115408369?pid=deals_exd&af_dp=newsbreak://home?tab%3Dchannel%26channel%3Dkdeals%26channel_action%3Dshare%26channel_context%3Dreferrer%3D106658761%26item%3Dnbw-item28&pd=07DWobWH&lang=en_US&s=i0&dl_campaign_name%3dnewsbreak_android_us_deals_pb01%26dl_campaign_id%3dnewsbreak_us_deals">Test Deals Link</a><br/>
+      <a href="https://newsbreakapp.onelink.me/2115408369?pid=deals_exd&af_dp=newsbreak%3A%2F%2Fhome%3Ftab%3Dchannel%26channel%3Dkdeals%26channel_action%3Dshare%26channel_context%3D%7B%22referrer%22%3A%2258104730%22%2C%22item%22%3A%22cbrwds%22%7D">Test Deals Link</a>
+  </body>
+</html>
